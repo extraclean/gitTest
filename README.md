@@ -1,5 +1,5 @@
 # gitTest
-edit from github 
-edit from ubuntu 
-test for push without commit 
+edit from github<br \> 
+edit from ubuntu <br \>
+test for push without commit<br \>
 
